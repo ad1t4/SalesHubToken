@@ -4,7 +4,7 @@
         "username": "plitit",
         "password": "Jirolupatmo",
         "expirydate": "6-05-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
