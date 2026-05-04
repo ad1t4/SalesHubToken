@@ -3,14 +3,14 @@
         "device_id": "570655c44c10bc58",
         "username": "plitit",
         "password": "Jirolupatmo",
-        "expirydate": "6-05-2026",
-        "Allowoffline": false
+        "expirydate": "6-05-2025",
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
-        "expirydate": "7-05-2026",
+        "expirydate": "7-05-2025",
         "Allowoffline": false
     }
 ]
