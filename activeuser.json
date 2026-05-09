@@ -74,7 +74,7 @@
         "username": "plitit",
         "password": "plitit123",
         "expirydate": "09-05-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
