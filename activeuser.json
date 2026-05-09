@@ -11,7 +11,7 @@
         "username": "plitit",
         "password": "kromatik",
         "expirydate": "09-05-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "2f8b70e942a9da48",
