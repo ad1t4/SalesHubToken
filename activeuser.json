@@ -263,7 +263,7 @@
         "username": "motog45",
         "password": "motog45",
         "expirydate": "4-07-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device",
